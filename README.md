@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Java, JavaScript, React.js, and Python
+- 📫 You can contact via [twitter](https://twitter.com/paperbox_update), [email](mailto:contact@paperbox.moe) or Issue Tracker of [lego37yoon](https://github.com/lego37yoon/lego37yoon/issues) repository.
+- 🏛️ Currently undergraduate student at SOONCHUNHYANG University, which located in Asan, Korea
 
 <!--
 **lego37yoon/lego37yoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![paperbox's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lego37yoon&show_icons=true&count_private=true&theme=buefy)
