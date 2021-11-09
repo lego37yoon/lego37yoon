@@ -2,7 +2,7 @@
 
 - 🥰 Hello! I'm Jungmin Yoon from Goyang, Rep. Of Korea. Nice to meet you!
 - 📫 You can contact via [twitter](https://twitter.com/paperbox_update), [email](mailto:contact@paperbox.moe) or Issue Tracker of [lego37yoon](https://github.com/lego37yoon/lego37yoon/issues) repository.
-- 🏛️ Currently undergraduate student at SOONCHUNHYANG University, which located in Asan, Korea
+- 🏛️ Currently undergraduate student at SOONCHUNHYANG University, which located in Asan, Rep. Of Korea.
 
 <!--
 **lego37yoon/lego37yoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
