@@ -3,7 +3,6 @@
 - 🥰 Hello! I'm Jungmin Yoon from Goyang, Rep. Of Korea. Nice to meet you!
 - 📫 You can contact via [twitter](https://twitter.com/paperbox_update), [email](mailto:contact@paperbox.moe) or Issue Tracker of [lego37yoon](https://github.com/lego37yoon/lego37yoon/issues) repository.
   - Because of military service by law, you may not contact with me (December 20th, 2021 ~ January 26th, 2022)
-  - Because of military service by law, you may not receive my reply immediately. (January 27th, 2022 ~ June 20th, 2023)
 - 🏛️ Currently undergraduate student at SOONCHUNHYANG University, which located in Asan, Rep. Of Korea.
 
 <!--
@@ -22,6 +21,8 @@ Here are some ideas to get you started:
 -->
 
 **🔭 What I am interested in...**
+
+This section doesn't mean that I'm learning these skills right now.
 
 <a href="https://developer.android.com" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a>
