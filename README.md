@@ -3,6 +3,7 @@
 - 🥰 Hello! I'm Jungmin Yoon from Goyang, Rep. Of Korea. Nice to meet you!
 - 📫 You can contact via [twitter](https://twitter.com/paperbox_update), [email](mailto:contact@paperbox.moe) or Issue Tracker of [lego37yoon](https://github.com/lego37yoon/lego37yoon/issues) repository.
   - Because of military service by law, you may not contact with me (December 20th, 2021 ~ January 26th, 2022)
+  - Because of military service by law, I can't update this account frequently.
 - 🏛️ Currently undergraduate student at SOONCHUNHYANG University, which located in Asan, Rep. Of Korea.
 
 <!--
@@ -45,12 +46,12 @@ This section doesn't mean that I'm learning these skills right now.
 
 **⚒️ Develop Environment**
 
-| SPEC |🏛️ At Univ | 🏡 Personal Laptop / Home |
-| --- | ------- | ------- |
-| CPU | AMD RYZEN 7 PRO 4750G (Zen 3) | Intel 10th Gen Core i5-1035G7 (Icelake) |
-| RAM | 32GB DDR4 | 16GB DDR4 3200MHz |
-| Storage | 256GB SSD + 2TB HDD | 256GB TLC SSD + 1TB QLC SSD |
-| OS | Windows 11 Education | <ul><li>Windows 11 Pro Insider Preview</li><li>LinuxMint 20.2 Uma</li></ul> |
-| Monitor | LG IPS LED FHD Monitor * 2 | <ul><li>15" Touch-Enabled FHD Laptop Monitor</li><li>15" Touch-Enabled FHD Portable Monitor [OPTION]</li><li>24" Touch-Unavailable FHD Monitor [OPTION]</li></ul> |
- 
+| SPEC | 🏡 Personal Laptop / Home |
+| --- | ------- |
+| CPU | Intel 10th Gen Core i5-1035G7 (Icelake) |
+| RAM | 16GB DDR4 3200MHz |
+| Storage | 256GB TLC SSD + 1TB QLC SSD |
+| OS | <ul><li>Windows 11 Pro Insider Preview</li><li>LinuxMint 20.3 Una</li></ul> |
+| Monitor | <ul><li>15" Touch-Enabled FHD Laptop Monitor</li><li>15" Touch-Enabled FHD Portable Monitor</li><li>24" Touch-Unavailable FHD Monitor</li></ul> |
+
 
