@@ -21,16 +21,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**🔭 What I am interested in...**
-
-This section doesn't mean that I'm learning these skills right now.
-
-<a href="https://developer.android.com" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a>
-<a href="https://svelte.dev/" target="_blank"><img src="https://img.shields.io/badge/svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
-<a href="https://www.linuxfoundation.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/></a>
-
 **✏️ What I am learning...**
 
 <a href="https://developer.android.com" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
