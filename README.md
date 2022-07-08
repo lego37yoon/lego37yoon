@@ -2,8 +2,6 @@
 
 - 🥰 Hello! I'm Jungmin Yoon from Goyang, Rep. Of Korea. Nice to meet you!
 - 📫 You can contact via [twitter](https://twitter.com/paperbox_update), [email](mailto:contact@paperbox.moe) or Issue Tracker of [lego37yoon](https://github.com/lego37yoon/lego37yoon/issues) repository.
-  - Because of military service by law, you may not contact with me (December 20th, 2021 ~ January 26th, 2022)
-  - Because of military service by law, I can't update this account frequently.
 - 🏛️ Currently undergraduate student at SOONCHUNHYANG University, which located in Asan, Rep. Of Korea.
 
 <!--
