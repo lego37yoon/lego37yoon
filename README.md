@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 | Graphics | Intel Iris Plus Integrated Graphics |
 | RAM | 16GB DDR4 3200MHz |
 | Storage | 256GB TLC SSD + 1TB QLC SSD |
-| OS | <ul><li>Windows 11 Pro Insider Preview</li><li>Kubuntu 22.04 LTS</li></ul> |
+| OS | <ul><li>Windows 11 Pro Insider Preview</li><li>KDE neon 6.0(Ubuntu 22.04 LTS)</li></ul> |
 | Monitor | <ul><li>15" Touch-Enabled FHD Laptop Monitor</li><li>24" Touch-Unavailable FHD Monitor</li></ul> |
 
 
