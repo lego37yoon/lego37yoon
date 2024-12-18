@@ -35,13 +35,13 @@ Here are some ideas to get you started:
 
 **⚒️ Devices for development**
 
-| SPEC | 🏡 Personal Laptop / Home |
-| --- | ------- |
-| CPU | Intel 10th Gen Core i5-1035G7 (Icelake) |
-| Graphics | Intel Iris Plus Integrated Graphics |
-| RAM | 16GB DDR4 3200MHz |
-| Storage | 256GB TLC SSD + 1TB QLC SSD |
-| OS | <ul><li>Windows 11 Pro Insider Preview</li><li>KDE neon 6.0(Ubuntu 22.04 LTS)</li></ul> |
-| Monitor | <ul><li>15" Touch-Enabled FHD Laptop Monitor</li><li>24" Touch-Unavailable FHD Monitor</li></ul> |
+| SPEC | 🏡 Home(Previous) | Home(Current) |
+| --- | ------- | ------- |
+| CPU | Intel 10th Gen Core i5-1035G7 (Icelake) | AMD RYZEN AI 7 360 PRO (Zen 5/5c) |
+| Graphics | Intel Iris Plus Integrated Graphics | AMD RADEON Integrated Graphics |
+| RAM | 16GB DDR4 3200MHz | 32GB LPDDR5X 7500MHz |
+| Storage | 256GB + 1TB PCle 3.0 SSD | 512GB PCle 4.0 SSD |
+| OS | KDE neon 6.2(Ubuntu 24.04 LTS) | Windows 11 Pro |
+| Monitor | 15" DCI-P3 99% FHD(16:9) Laptop Monitor | 14" sRGB 100% FHD(16:10) Laptop Monitor |
 
 
