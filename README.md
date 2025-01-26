@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 | Graphics | Intel Iris Plus Integrated Graphics | AMD RADEON Integrated Graphics |
 | RAM | 16GB DDR4 3200MHz | 32GB LPDDR5X 7500MHz |
 | Storage | 256GB + 1TB PCle 3.0 SSD | 512GB PCle 4.0 SSD |
-| OS | KDE neon 6.2(Ubuntu 24.04 LTS) | Windows 11 Pro |
+| OS | KDE neon 6.2(Ubuntu 24.04 LTS) | Windows 11 Pro / Kubuntu 24.10 |
 | Monitor | 15" DCI-P3 99% FHD(16:9) Laptop Monitor | 14" sRGB 100% FHD(16:10) Laptop Monitor |
 
 
